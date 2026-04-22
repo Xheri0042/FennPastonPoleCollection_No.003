@@ -20,12 +20,15 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Fenn 03 
+title: Sir John Fenn&#39;s Paston and Pole Family Papers
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Sir John Fenn - Pole and Paston Family Papers
+tagline: Collection No. 003
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Medieval Family Life"
+description: "Magdalen Archive Accession No. 458.2025.005 is comprised of thirty items that members of the family of Sir John Fenn had come across over the years from caches discovered at various family estates. 
+This collection of records dates from the 15th century, which includes the period known as the Wars of The Roses. That conflict defined society and politics from approximately 1455 to 1485. 
+The items include letters, diaries, ledgers, inventories, and wills related to the households of Margaret, Elizabeth and Jacinta Paston, and a set of letters, ledgers, and inventories from the household of Margaret Pole. 
+"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Cheri Hoffer
 
