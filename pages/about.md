@@ -20,7 +20,8 @@ This FICTITIOUS site is generated using [CollectionBuilder-GH](https://collectio
 - a folder of JPG images or PDF documents
 
 To learn more about the medieval period, The Wars of the Roses, The Pastons, or Margaret Pole, be sure to check out the following sites:
-(https://wmich.edu/medievalpublications)
+([https://wmich.edu/medievalpublications/](https://wmich.edu/medievalpublications)) 
+  
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
